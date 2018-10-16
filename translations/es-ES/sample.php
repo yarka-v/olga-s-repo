@@ -24,7 +24,7 @@ $color = "green";
 
 <?php
 /* en.php - english language file */
-$messages['smth to translate'] = 'Text for translation';
+$messages['smth to translate'] = 'Traducción';
 $messages['hello'] = 'Hello';
 ?>
 
