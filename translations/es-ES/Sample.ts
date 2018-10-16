@@ -4,9 +4,9 @@
   <context>
     <name>Page</name>
     <message>
-      <source>Text for translation</source>
+      <source>HELLO</source>
       <comment>commenting</comment>
-      <translation type="unfinished">Text for translation</translation>
+      <translation type="unfinished">HELLO</translation>
     </message>
     <message>
       <source>This is some text.</source>
